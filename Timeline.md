@@ -1,3 +1,12 @@
+## 2026-10-21
+
+- **Release**: OpenClaw v2026.10.5 (2,704 commits, 2,250 PRs, 638 contributors).
+- **Official**: v2026.10.10-beta.3 — SQLite work offloaded to worker threads, restart-safe replies, cloud sessions, PostgreSQL experimental engine, Gemini 4 Argon default.
+- **Milestone**: GitHub stars reached 392,645 (forks 82,541).
+- **Community**: arXiv study — policy violations can't be proven from logs alone; structured approvals required.
+
+[Full Report (Feishu)](https://www.feishu.cn/docx/NQEgdTaAAo4WB8xDpLzcVVvxnGg)
+
 ## 2026-03-12
 
 - **Official**: ACP/Provenance added (ingress metadata), web search provider ordering updated.
