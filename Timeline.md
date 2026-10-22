@@ -1,3 +1,13 @@
+## 2026-10-22
+
+- **Milestone**: GitHub stars 392,736 (forks 82,549, open issues 9,400).
+- **Official**: 1,211 PRs merged in 24h; heartbeat executor retired (#180192), cron run execution context added (#178933), Control UI Solid refactor wave.
+- **Hot issue**: #179481 `doctor --fix` blocked while Gateway running; #179665 `web_search` never loads search-only provider plugins; #143524 SQLite WAL bloat still the top thread (134 comments).
+- **Community**: GitHub daily trending led by php/php-src, cloudflare/security-audit-skill, Graphify-Labs/graphify; Agent Skills repos trending across android/skills, scientific-agent-skills, cursor/plugins.
+- **Trend**: Verifiability (machine-readable security findings) is becoming a new competitive axis for agent ecosystems.
+
+[Full Report (Feishu)](https://www.feishu.cn/docx/AwIDdharYoOv3bx9QfTcgDQlnlf)
+
 ## 2026-10-21
 
 - **Release**: OpenClaw v2026.10.5 (2,704 commits, 2,250 PRs, 638 contributors).
