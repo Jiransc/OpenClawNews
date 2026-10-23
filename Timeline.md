@@ -1,3 +1,15 @@
+## 2026-10-23
+
+- **Release**: OpenClaw v2026.10.6 (294 commits, 250 files) — stability & safe-boundary release.
+- **Hard gate**: Node 24.22.1+ / 26.12.1+ required (compromised cert keys); `openclaw update` refuses on older Node (#179992).
+- **Milestone**: GitHub stars 392,828 (forks 82,565, open issues 8,866) — +92 stars, +16 forks in 24h.
+- **Official**: 787 PRs merged in 24h; lossy-import guards in doctor/migrations, restart-safe queued turns & dead-letter delivery, provider/model resilience, agent tool-call timeout visibility.
+- **Hot issue**: #180690 `doctor --fix` OOM at 6GB on ~800-agent state; #181078 intermittent agent-turn failures on 2026.10.5; #143524 SQLite WAL bloat still the top thread (134 comments).
+- **Community**: daily trending led by cloudflare/security-audit-skill, php/php-src, anthropics/knowledge-work-plugins, NVIDIA/OpenShell; weekly trending highlights morluto/rea, stablyai/orca, heygen-com/hyperframes.
+- **Trend**: Skill-ified security meets Skill-ified offense; agent-private runtimes and machine-readable audit findings split into parallel tracks.
+
+[Full Report (Feishu)](https://www.feishu.cn/docx/LIX6dYt5poZDWoxoswTctYuenHb)
+
 ## 2026-10-22
 
 - **Milestone**: GitHub stars 392,736 (forks 82,549, open issues 9,400).
